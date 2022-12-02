@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T13:04:25.404Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="wcvcPbBUvenzlEd6bqtf" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-02T13:14:15.994Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="YoggF34Xos5o2R3tSHBl" type="github">
   <diagram id="G6fGV8XbihqarOjjsox3" name="Página-1">
     <mxGraphModel dx="780" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,47 +67,41 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6n1O150WlBBv2CjZVOHh-12" value="Escreva(Vamos Calcular)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="380" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6n1O150WlBBv2CjZVOHh-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6n1O150WlBBv2CjZVOHh-12" target="6n1O150WlBBv2CjZVOHh-14">
+        <mxCell id="6n1O150WlBBv2CjZVOHh-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="410" as="sourcePoint" />
-            <mxPoint x="390" y="490" as="targetPoint" />
+            <mxPoint x="390" y="440" as="sourcePoint" />
+            <mxPoint x="390" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6n1O150WlBBv2CjZVOHh-14" value="Leia (Digite o numero desejado)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="480" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6n1O150WlBBv2CjZVOHh-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.45;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.442;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6n1O150WlBBv2CjZVOHh-14">
+        <mxCell id="6n1O150WlBBv2CjZVOHh-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.45;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.442;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="600" as="sourcePoint" />
+            <mxPoint x="384" y="541.02" as="sourcePoint" />
             <mxPoint x="385.1400000000001" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6n1O150WlBBv2CjZVOHh-18" value="Enquanto( Contador &amp;lt;= 10)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="610" width="180" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="6n1O150WlBBv2CjZVOHh-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.467;exitY=0.992;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="6n1O150WlBBv2CjZVOHh-18" target="6n1O150WlBBv2CjZVOHh-20">
+        <mxCell id="6n1O150WlBBv2CjZVOHh-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6n1O150WlBBv2CjZVOHh-30" target="6n1O150WlBBv2CjZVOHh-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="600" as="sourcePoint" />
+            <mxPoint x="384.05999999999995" y="729.04" as="sourcePoint" />
             <mxPoint x="390" y="790" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="680" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6n1O150WlBBv2CjZVOHh-20" value="Contador = contador++&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="770" width="140" height="50" as="geometry" />
+          <mxGeometry x="530" y="760" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6n1O150WlBBv2CjZVOHh-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6n1O150WlBBv2CjZVOHh-20">
+        <mxCell id="6n1O150WlBBv2CjZVOHh-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6n1O150WlBBv2CjZVOHh-20" target="6n1O150WlBBv2CjZVOHh-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="690" as="sourcePoint" />
             <mxPoint x="380" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6n1O150WlBBv2CjZVOHh-22" value="termo = termo + NumeroTab" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6n1O150WlBBv2CjZVOHh-23" value="Escreva(termo)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="980" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="1000" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6n1O150WlBBv2CjZVOHh-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6n1O150WlBBv2CjZVOHh-22" target="6n1O150WlBBv2CjZVOHh-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -119,10 +113,38 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="880" as="sourcePoint" />
             <mxPoint x="380" y="1100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="1110" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6n1O150WlBBv2CjZVOHh-26" value="FIM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1070" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6n1O150WlBBv2CjZVOHh-28" value="Escreva(Vamos Calcular)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6n1O150WlBBv2CjZVOHh-29" value="Leia (Digite o numero desejado)(termo)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="480" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6n1O150WlBBv2CjZVOHh-30" value="Enquanto( Contador &amp;lt;= 10)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="610" width="215" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="6n1O150WlBBv2CjZVOHh-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6n1O150WlBBv2CjZVOHh-30" target="6n1O150WlBBv2CjZVOHh-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="880" as="sourcePoint" />
+            <mxPoint x="430" y="830" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="680" />
+              <mxPoint x="160" y="1110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6n1O150WlBBv2CjZVOHh-32" value="Não" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="195" y="645" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6n1O150WlBBv2CjZVOHh-33" value="Sim" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="655" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
